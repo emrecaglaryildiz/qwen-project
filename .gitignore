@@ -1,3 +1,2 @@
-Nothing should be ignored in this case, as the only change is adding a markdown file (.md) which is a source/config file. No build artifacts, dependencies, or temporary files are present in the changes.
-
-Therefore, the output is empty.
+# Documentation
+observium-kurulum-kilavuzu.md
